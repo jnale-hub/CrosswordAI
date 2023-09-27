@@ -1,7 +1,6 @@
 import sys
 from crossword import *
 from queue import Queue
-import copy
 
 
 class CrosswordCreator():
