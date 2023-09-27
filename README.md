@@ -10,4 +10,4 @@ This is an AI program that generates crossword puzzles, using a constraint satis
 
 ## How to Run
 1. Requires Python(3) and install Pillow manually or via: ```pip3 install -r requirements.txt``` (for generating image representation of the resulting crossword puzzle)
-2. Run : ```python generate.py data/structure1.txt data/words1.txt``` or ```python generate.py data/structure1.txt data/words1.txt output.png```
+2. Run : ```python generate.py data/structure1.txt data/words1.txt output.png[optional]```
