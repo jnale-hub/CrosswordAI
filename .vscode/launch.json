@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Generate Crossword",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["generate.py", "data/structure1.txt", "data/words2.txt"]
+        }
+    ]
+}
